@@ -1,2 +1,6 @@
-# ReactNAtive-StickerSmash-
-StickerSmash  app
+# ReactNAtive-StickerSmash
+
+
+npm install 
+
+npx expo start
